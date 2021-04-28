@@ -30,3 +30,12 @@ Key points:
 - Use Option+WASD hotkeys to align selected shape to top, left, bottom and right respectively;
 - Use Auto Layout to create adaptive UI elements;
 - Use Constraints to create responsive UI that adapts to frame size changes.
+
+## Chapter 3. App Teardowns
+
+![airbnb-trace](resources/pocket-casts-trace.png)![airbnb-trace](resources/pocket-casts-trace-wireframe.png)![airbnb-trace](resources/airbnb-trace.png)![airbnb-trace](resources/airbnb-trace-wireframe.png)
+
+Key points:
+- Tering down apps designs is extremely important skill;
+- Any layout is consists of repeatable components;
+- Boolean operations (unioning, subtraction, intersection, excluding) are helpful when you need a shape as a combination of other shapes.
