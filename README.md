@@ -4,6 +4,10 @@ Practical part of the "App Design" book.
 
 ## Chapter 1. Book Overview & App Preview
 
+![movie-list](resources/movie-list.png)
+![movie-details-birds-of-prey](resources/movie-details-birds-of-prey.png)
+![movie-details-frozen-2](resources/movie-details-frozen-2.png)
+
 Key points:
 
 - Create Figma account to be able to create workspace;
@@ -13,6 +17,10 @@ Key points:
 - Deploy interactive prototypes to a physical device via Figma Mirror mobile app.
 
 ## Chapter 2. Workspace Tour & Figma Fundamentals
+
+![cinetamatic-sign-in-iphone](resources/cinetamatic-sign-in-iphone.png)
+![cinetamatic-sign-in-ipad](resources/cinetamatic-sign-in-ipad.png)
+![cinetamatic-sign-in-ipad-landscape](resources/cinetamatic-sign-in-ipad-landscape.png)
 
 Key points:
 
